@@ -1,23 +1,23 @@
-# 🎯 Proyecto: Calculadora de Área Modular y Diana ASCII — LPR 2026
+# 🚀 Proyecto: Control de Acceso y Gestión de Memoria RAM con Punteros — LPR 2026
 
 ## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
 
-* **Curso:** 5° Año — Especialidad Computación / Programación
+* **Curso:** 5° Año A/B — Especialidad Computación / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Lopilato Luisana
+* **Estudiante:** Fuseneco Dardo
 
 ---
 
 ## 📌 Descripción de la Actividad
 
-Esta actividad aplica un enfoque estructurado y de diseño **Top-Down** (de lo general a lo particular). Se desarrolla una aplicación modular en C++ que valida el ingreso de un dato geométrico (radio), calcula la superficie de un círculo invocando una función con paso de parámetros y retorno de valor, y genera un renderizado condicional de una diana de tiro en arte ASCII según la escala del radio ingresado.
+Esta actividad aborda la gestión directa de memoria RAM mediante el uso de **punteros en C++**. Se desarrolla una aplicación de control de acceso que manipula direcciones físicas de memoria en formato hexadecimal (`0x...`), captura datos mediante desreferenciación (`*p`), y valida condiciones de acceso operando directamente sobre las direcciones de la pila de memoria (*Stack*).
 
 ---
 
 ## 👥 Integrantes (Entrega Individual)
 
-* **Estudiante:** Lopilato Luisana
+* **Estudiante:** Fuseneco Dardo
 * **Curso / Grupo:** 5° — Grupo A/B
 * **Especialidad:** Técnico en Informática/Programación
 
@@ -28,15 +28,15 @@ Esta actividad aplica un enfoque estructurado y de diseño **Top-Down** (de lo g
 Para compilar y ejecutar este proyecto en Windows 10/11:
 
 1. **Visual Studio Code:** Con las extensiones oficiales `C/C++` de Microsoft.
-2. **Compilador MinGW (GCC/G++):** Configurado en el `PATH` de Windows.
+2. **Compilador MinGW (GCC/G++):** Configurado en las variables de entorno (`PATH` de Windows).
 3. **Git for Windows:** Para la sincronización con GitHub.
 
 ---
 
 ## 🏃 Comandos de PowerShell para Windows 10/11 en Visual Studio Code
 
-Asegúrate de estar parado en la raíz de la carpeta `CalculoArea` en tu terminal (`Ctrl + Ñ`).
+Asegúrate de estar parado en la raíz de la carpeta `CadenasPunteros` en tu terminal (`Ctrl + Ñ`).
 
-1. **Compilar el código fuente modular:**
+1. **Compilar el código fuente con punteros:**
    ```powershell
-   g++ src/main.cpp -o src/area.exe
+   g++ src/main.cpp -o src/cadenaspunteros.exe
