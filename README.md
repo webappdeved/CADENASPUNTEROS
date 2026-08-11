@@ -1,11 +1,11 @@
 # 🚀 Proyecto: Control de Acceso y Gestión de Memoria RAM con Punteros — LPR 2026
 
-## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
+## Escuela de Educación Secundaria Técnica N° 10 "Rogue One" — Vicente López
 
 * **Curso:** 5° Año A/B — Especialidad Computación / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Fuseneco Dardo
+* **Estudiante:** Andor Cassian
 
 ---
 
@@ -17,7 +17,7 @@ Esta actividad aborda la gestión directa de memoria RAM mediante el uso de **pu
 
 ## 👥 Integrantes (Entrega Individual)
 
-* **Estudiante:** Fuseneco Dardo
+* **Estudiante:** Andor Cassian
 * **Curso / Grupo:** 5° — Grupo A/B
 * **Especialidad:** Técnico en Informática/Programación
 
